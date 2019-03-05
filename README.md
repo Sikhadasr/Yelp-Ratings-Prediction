@@ -22,7 +22,7 @@ A more interesting finding is that if the business is not a restaurant, the data
 
 ### Finding 2:
 
-![Finding 2](https://github.com/Sikhadasr/Yelp-Ratings-Prediction/blob/master/Images/Finding2.PNG)
+![Finding 2](https://github.com/Sikhadasr/Yelp-Ratings-Prediction/blob/master/Images/Finding%202.PNG)
 
 Number of positive tip mentions is the most defining factor… if number of positive count is less than 21.5 and number of negative tip count is less than 3.5, then there is a high chance of high rating for the restaurant. If the number of negative tip count is higher but number of positive tip comment is higher than number of negative count than there is high chance of high rating.
 Surprisingly, for restaurants with a low number of reviews, Dogs Allowed is an important defining factor for whether they have a high or lower rating.
