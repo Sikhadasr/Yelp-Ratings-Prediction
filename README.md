@@ -3,7 +3,7 @@ Identify which factors contribute most to whether a business has a high or low r
 
 
 ## Dataset Description:
-Dataset  was obtained from Kaggle.It includes information  regarding business attributes to check ins and reviews on 174,000 businesses .Used 4 of the 7 provided datasets;Business,Business Attributes,Tips, Checkins.
+Dataset  was obtained from Kaggle.It includes information  regarding business attributes to check ins and reviews on 174,000 businesses .Used 4 of the 7 provided datasets;Business,Business Attributes,Tips, Checkins.[Link](https://www.kaggle.com/yelp-dataset/yelp-dataset/data)
 
 ## Project Outline:
 Data Preparation
