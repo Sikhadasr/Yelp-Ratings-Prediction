@@ -1,5 +1,5 @@
 # Yelp-Ratings-Prediction
-Identify which factors contribute most to whether a business has a high or low rating. 
+Analysed Yelp Dataset to Identify which factors contribute most to whether a business has a high or low rating. 
 
 
 ## Dataset Description:
